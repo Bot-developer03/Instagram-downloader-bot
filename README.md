@@ -9,7 +9,7 @@
  requests
 ## Installation
 ```python
-Git clone https://bot-developer03/Instagram-downloader-bot
+git clone https://bot-developer03/Instagram-downloader-bot
 ```
 ```python
 cd Instagram-downloader-bot
@@ -22,7 +22,11 @@ pip3 install -r requirements.txt
 2. Open Telegram, go to [@BotFather](https://t.me/botfather) and create a new Bot.
 3. Copy the Bot Access Token.
 4. Open the main.py file using any text editor, go down to line 127 and paste your token there.
-5. Save the file and run the script!
+5. Save the file and run the script!by typing
+
+```python
+python main.py
+```
 
 ## How it works
 This bot uses the Instagram public GraphQL API. When a link is sent to the bot, a request to the API is sent and a json response is received. The bot will get every media included in the given post and send it to the user.
