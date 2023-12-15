@@ -21,7 +21,7 @@ pip3 install -r requirements.txt
 1. Make sure you installed all the requirements
 2. Open Telegram, go to [@BotFather](https://t.me/botfather) and create a new Bot.
 3. Copy the Bot Access Token.
-4. Open the main.py file using any text editor, go down to line 127 and paste your token there.
+4. Open the main.py file using any text editor, go down to line 116 and paste your token there.
 5. Save the file and run the script!by typing
 
 ```python
