@@ -7,7 +7,16 @@
 
  python-telegram-bot
  requests
-
+## Installation
+```python
+Git clone https://bot-developer03/Instagram-downloader-bot
+```
+```python
+cd Instagram-downloader-bot
+```
+```python
+pip3 install -r requirements.txt
+```
 ## How to use
 1. Make sure you installed all the requirements
 2. Open Telegram, go to [@BotFather](https://t.me/botfather) and create a new Bot.
